@@ -1,0 +1,31 @@
+/*.color1 { #11644d };
+.color2 { #a0b046 };
+.color3 { #f2c94e };
+.color4 { #f78145 };
+.color5 { #f24e4e }; */
+
+body{
+    background-color:rgba(242, 201, 78,0.3);
+}
+
+header{
+    background-color: #40957f; 
+}
+
+nav{
+    background-color: #3c515d; 
+
+}
+.container{
+    min-height: 800px;
+}
+
+footer{
+    background-color: #3c515d;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    border: 4px solid;
+}
+
+
